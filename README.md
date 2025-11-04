@@ -23,4 +23,5 @@ Este é um **sistema simples em Python** para **gerenciamento de restaurantes**.
 
 1. **Clone este repositório** para sua máquina:
    ```bash
-   git clone https://github.com/SeuUsuario/nome-do-repositorio.git
+   git clone https://github.com/PedroVasPassos/app_python.git
+
